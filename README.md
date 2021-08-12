@@ -1,4 +1,4 @@
-# Whale of a Portfolio
+# Harold's A Whale
 
 The investment division of Harold's company has been investing in algorithmic trading strategies. Some of the investment managers love them, some hate them, but they all think their way is best.
 
