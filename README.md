@@ -2,8 +2,33 @@
 ![image](https://user-images.githubusercontent.com/80294571/130271169-f94864cc-1a4b-47f3-b1c1-28081d8b4c48.png)
 
 ### Table of Contents:
-[Background](
+[Background](https://github.com/jharvey09/Harolds_A_Whale#background)
 
+[Steps](https://github.com/jharvey09/Harolds_A_Whale#steps)
+
+[Resources](https://github.com/jharvey09/Harolds_A_Whale#resources)
+
+
+### Index:
+[Quatitive Analysis](https://github.com/jharvey09/Harolds_A_Whale#conduct-quantitative-analysis)
+
+[Performance Analysis](https://github.com/jharvey09/Harolds_A_Whale#performance-analysis)
+
+[Risk Analysis](https://github.com/jharvey09/Harolds_A_Whale#risk-analysis)
+
+[Box Plot](https://github.com/jharvey09/Harolds_A_Whale#box-plot)
+
+[Standard Deviation](https://github.com/jharvey09/Harolds_A_Whale#box-plot)
+
+[Risky Portfolio](https://github.com/jharvey09/Harolds_A_Whale#which-portfolios-are-risker)
+
+[Annualized Standard Deviation](https://github.com/jharvey09/Harolds_A_Whale#annulaized-standard-deviation)
+
+[Rolling_Statistic](https://github.com/jharvey09/Harolds_A_Whale#rolling-statistics)
+
+[Calculate/Plot Correlation](https://github.com/jharvey09/Harolds_A_Whale#calculateplot-correlation)
+
+[Rolling Statistic Exponetially Weighted Average](https://github.com/jharvey09/Harolds_A_Whale#calculateplot-correlation)
 
 ### Background:
 I will be creating a Retirement Planning tool; that will use the Alpaca API to grab historical closing prices for a projected retirement portfolio.  The portfolio will be composed of stocks and bonds, later running a few different Monte Carlo simulations to predict the portfolio performance at 30 years. 
@@ -62,7 +87,7 @@ An alternative method to calculate a rolling window is to take the exponentially
 
 ![image](https://user-images.githubusercontent.com/80294571/131745994-0958ca03-3c29-4b3e-a839-439bac5fdd95.png)
 
-### Sharpe Ratios:
+#### Sharpe Ratios:
 Investment managers and their institutional investors look at the return-to-risk ratio, not just the returns. 
 If; you have two portfolios that each offer a 10% return on investment. Yet one is lower risk; which portfolio would be the best fit?
 
