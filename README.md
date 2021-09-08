@@ -104,5 +104,6 @@ If; you have two portfolios that each offer a 10% return on investment. Yet one 
 
 [S&P500](https://github.com/jharvey09/Harolds_A_Whale/blob/main/sp500_history.csv)
 
+[WHALE RETURNS](https://github.com/jharvey09/Harolds_A_Whale/blob/main/whale_returns.csv)
 
 
