@@ -6,7 +6,7 @@
 
 [Steps](https://github.com/jharvey09/Harolds_A_Whale#steps)
 
-[Resources](https://github.com/jharvey09/Harolds_A_Whale#resources)
+[Historical Data](https://github.com/jharvey09/Harolds_A_Whale#resources)
 
 
 ### Index:
@@ -93,9 +93,12 @@ If; you have two portfolios that each offer a 10% return on investment. Yet one 
 
 ![image](https://user-images.githubusercontent.com/80294571/131746109-81fd3c52-1293-4da3-9d10-f44efe1eb7e8.png)
 
-#### Resources:
-1. PANDAS API
-2. Exponential Weight Function in Pandas
-3. GOOGLEFINANCE
+#### Historical Data:
+[APPLE CSV](https://github.com/jharvey09/Harolds_A_Whale/blob/main/aapl_historical.csv)
+[ALGORITHMIC RETURNS](https://github.com/jharvey09/Harolds_A_Whale/blob/main/algo_returns.csv)
+[COSTCO](https://github.com/jharvey09/Harolds_A_Whale/blob/main/cost_historical.csv)
+[GOOGLE](https://github.com/jharvey09/Harolds_A_Whale/blob/main/goog_historical.csv)
+[S&P500](https://github.com/jharvey09/Harolds_A_Whale/blob/main/sp500_history.csv)
+
 
 
