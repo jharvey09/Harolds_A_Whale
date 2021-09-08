@@ -95,9 +95,13 @@ If; you have two portfolios that each offer a 10% return on investment. Yet one 
 
 #### Historical Data:
 [APPLE CSV](https://github.com/jharvey09/Harolds_A_Whale/blob/main/aapl_historical.csv)
+
 [ALGORITHMIC RETURNS](https://github.com/jharvey09/Harolds_A_Whale/blob/main/algo_returns.csv)
+
 [COSTCO](https://github.com/jharvey09/Harolds_A_Whale/blob/main/cost_historical.csv)
+
 [GOOGLE](https://github.com/jharvey09/Harolds_A_Whale/blob/main/goog_historical.csv)
+
 [S&P500](https://github.com/jharvey09/Harolds_A_Whale/blob/main/sp500_history.csv)
 
 
